@@ -23,6 +23,10 @@ table, th, td {
 
 
 /* Question 2 */
+.search-ele{
+    text-align: center;
+}
+
 #search-icon{
     position: relative;
     left: 30px;
@@ -30,7 +34,7 @@ table, th, td {
 }
 #search-input{
     display: inline;
-    width: 45%;    
+    width: 30%;    
     border-width: 1px;
     border-style: solid;
     border-color: rgb(200, 194, 194);
