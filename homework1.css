@@ -16,6 +16,10 @@ body {
   margin-bottom: 60px;
 }
 
+.margin-left-20px {
+  margin-left: 20px;
+}
+
 /* Question 1 */
 table,
 th,
@@ -89,9 +93,6 @@ td {
 }
 
 /* Question 4 */
-.margin-left-20px {
-  margin-left: 20px;
-}
 
 .dropDownMenu {
   width: 20%;
