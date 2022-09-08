@@ -57,6 +57,7 @@ td {
 #search-input:hover {
   box-shadow: 0px 0px 15px rgb(200, 194, 194);
 }
+
 #search-input:focus {
   outline: none;
 }
@@ -70,6 +71,9 @@ td {
 #search-btn:hover {
   color: rgb(86, 187, 27);
   font-size: medium;
+}
+#search-btn:focus {
+  color: rgb(4, 229, 241);
 }
 
 /* Question 3 */
