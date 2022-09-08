@@ -82,7 +82,19 @@ td {
   color: red;
 }
 
+.listCard {
+  border: 1px solid rgb(170, 159, 159);
+  box-shadow: 2px 2px 2px rgb(186, 180, 180);
+  border-radius: 20px;
+}
+
 /* Question 4 */
 .margin-left-20px {
   margin-left: 20px;
+}
+
+.dropDownMenu {
+  width: 20%;
+  height: 30px;
+  font-size: large;
 }
