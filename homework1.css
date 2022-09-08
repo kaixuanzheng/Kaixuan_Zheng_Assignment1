@@ -2,15 +2,10 @@ body {
   font-family: sans-serif;
   padding: 80px;
 }
-h2 {
+#subject,
+#dueDate {
   text-align: center;
-}
-h2,
-h3 {
   margin: 0px;
-}
-a {
-  display: block;
 }
 
 .margin-bottom-20px {
@@ -76,12 +71,18 @@ td {
 /* Question 3 */
 .flex-container {
   display: flex;
-  justify-content: center;
 }
 
 .flex-container > div {
-  margin-left: 50px;
+  margin-left: 20px;
   margin-right: 50px;
 }
 
+.flex-container span {
+  color: red;
+}
+
 /* Question 4 */
+.margin-left-20px {
+  margin-left: 20px;
+}
